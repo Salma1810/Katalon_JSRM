@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Call_la la-clock-o</name>
+   <tag></tag>
+   <elementGuidId>e920dbc6-8c2b-428f-b2b6-d978f8253bd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-clock-o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>04f576cb-afc4-481b-84d4-98bdec5232f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-clock-o</value>
+      <webElementGuid>495ed5b3-237a-426f-8d5d-71a644222f12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header ext-header navstyle1&quot;]/div[@class=&quot;middle-bar bg-white&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;middle-area&quot;]/div[@class=&quot;service-list&quot;]/ul[1]/li[2]/i[@class=&quot;la la-clock-o&quot;]</value>
+      <webElementGuid>6907081c-efa5-4c25-a5f2-c7b035e397a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li[2]/i</value>
+      <webElementGuid>35b9a05b-5e8a-4596-8a47-d6cf11d821eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call'])[1]/following::i[1]</value>
+      <webElementGuid>ef230b3e-c963-4862-a879-2810f6e8ebd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat - Thurs'])[1]/preceding::i[1]</value>
+      <webElementGuid>8748835f-296c-4387-9470-99a71753bef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B-342, Enaetnagar, Godnail, Siddhirganj'])[1]/preceding::i[2]</value>
+      <webElementGuid>bbbd51b3-bf27-4e41-9b63-13093de25238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/i</value>
+      <webElementGuid>22b533ad-0864-4788-a31b-caaea465668a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

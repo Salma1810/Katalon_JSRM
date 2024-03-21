@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Call_la la-phone</name>
+   <tag></tag>
+   <elementGuidId>641166fa-ede7-48cb-abe7-8a88699bad0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-phone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a09dbf9e-22de-48d9-a662-29e660c6d739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-phone</value>
+      <webElementGuid>dffcf448-d4f6-4bfa-a4b0-e4ceb7f71916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header ext-header navstyle1&quot;]/div[@class=&quot;middle-bar bg-white&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;middle-area&quot;]/div[@class=&quot;service-list&quot;]/ul[1]/li[1]/i[@class=&quot;la la-phone&quot;]</value>
+      <webElementGuid>d7974f6a-479a-4c7a-b7fc-37a42ce8badf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li/i</value>
+      <webElementGuid>e7935d32-c233-4132-8d5d-d3cbbde7fea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call'])[1]/preceding::i[1]</value>
+      <webElementGuid>9162b27c-2f1e-4449-b1c5-8c024c218ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat - Thurs'])[1]/preceding::i[2]</value>
+      <webElementGuid>9f356759-f943-42f0-a84b-fb26e3dae0a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>1f1fb5db-8094-40f9-8af9-3ad48b7ace2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

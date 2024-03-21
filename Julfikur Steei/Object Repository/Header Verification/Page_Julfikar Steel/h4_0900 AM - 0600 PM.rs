@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_0900 AM - 0600 PM</name>
+   <tag></tag>
+   <elementGuidId>2fada895-fa17-4f9c-8aa7-777e488e0fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li[2]/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > h4.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>bbfdcaa2-74f0-4c6d-ac92-2ae8ed87a7ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>90f54991-5a62-4626-b2f3-683e733c8df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09:00 AM - 06:00 PM</value>
+      <webElementGuid>1f3c11b8-c7bc-4dd4-845a-76a80849d36d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header ext-header navstyle1&quot;]/div[@class=&quot;middle-bar bg-white&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;middle-area&quot;]/div[@class=&quot;service-list&quot;]/ul[1]/li[2]/h4[@class=&quot;title&quot;]</value>
+      <webElementGuid>f478e56a-7b32-41a7-8d91-a23118df61e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li[2]/h4</value>
+      <webElementGuid>79139889-17b7-403f-951f-b38c39c62186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call'])[1]/following::h4[1]</value>
+      <webElementGuid>2b48ebec-0fdd-4f8f-a532-5316bdc4b459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat - Thurs'])[1]/preceding::h4[1]</value>
+      <webElementGuid>c2f1d492-2eb1-4db1-8f4e-4ec8e562b6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B-342, Enaetnagar, Godnail, Siddhirganj'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4597604f-fd06-49aa-9915-458afbf43fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/h4</value>
+      <webElementGuid>8c61de7c-2790-4285-b847-bb14f7446139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '09:00 AM - 06:00 PM' or . = '09:00 AM - 06:00 PM')]</value>
+      <webElementGuid>c614afe3-0b0d-4735-be10-1ce807a0d8f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Sat - Thurs_la la-map</name>
+   <tag></tag>
+   <elementGuidId>fe53eccf-5e90-46c4-a9f8-ae608466a499</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-map</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9b44b07b-0515-4a10-8040-2137cac83a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-map</value>
+      <webElementGuid>45f3ce49-2e17-496e-87d6-e02615652767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header ext-header navstyle1&quot;]/div[@class=&quot;middle-bar bg-white&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;middle-area&quot;]/div[@class=&quot;service-list&quot;]/ul[1]/li[3]/i[@class=&quot;la la-map&quot;]</value>
+      <webElementGuid>e64efd3d-096b-4a94-8b11-c915a4d8bbe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div/div/div/div[2]/ul/li[3]/i</value>
+      <webElementGuid>9e7c5476-a0e7-46bd-b770-aea3bc8bf646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat - Thurs'])[1]/following::i[1]</value>
+      <webElementGuid>ec460d3b-18f4-46c9-b351-211f0bd9adc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call'])[1]/following::i[2]</value>
+      <webElementGuid>fabeacfc-2ad9-4ed5-b0a7-5a38c9b95f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B-342, Enaetnagar, Godnail, Siddhirganj'])[1]/preceding::i[1]</value>
+      <webElementGuid>4a7ab94e-1829-4307-889a-42054ee2548a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Narayanganj-1432, Bangladesh'])[1]/preceding::i[1]</value>
+      <webElementGuid>b7f2105c-942a-4139-aa14-7b300baf21b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/i</value>
+      <webElementGuid>cfd54c81-1dc9-4262-9739-f2dd8190285a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
